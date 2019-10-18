@@ -1,3 +1,3 @@
 ##MSISS##
 
-3rd Year Software Apps repository
+3rd Year Software Engineering repository
